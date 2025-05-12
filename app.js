@@ -16,5 +16,3 @@ function scroll() {
     indicator.style.width = `${scrolled}%`; // Set the width of the progress bar accordingly
 }
 
-// Log the indicator element to the console for debugging
-console.log(indicator);
